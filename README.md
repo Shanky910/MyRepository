@@ -5,3 +5,5 @@ After choosing the desired topping, the user will be allowed to select the amoun
 The user can choose either 2,3,4 or 8 as the number of slices that they would like.
 Each topping choice has its own fucntion in the code.
 All the pictures and animations are under the .jpg or .gif file extensions in the code.
+
+The person running the website/program must have the file extensions installed so that they are able to run the program without error.
