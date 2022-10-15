@@ -1,0 +1,92 @@
+print("Menu:\n")
+print("Margherita | Tomato | Onion | Mushroom | Pepperoni")
+pizzachoice=input("What pizza would you like today?")
+if (pizzachoice=='1'):
+    Margherita()
+elif (pizzachoice=='2'):
+    Tomato()
+elif (pizzachoice=='3'):
+    Onion()
+elif (pizzachoice=='4'):
+    Mushroom()
+elif (pizzachoice=='5'):
+    Pepperoni()
+else:
+    print("Enter valid choice")
+
+def Margherita():
+    print("You have chosen to add no toppings", Margherita.jpg)
+    slices=input("Enter number of slices:")
+    if (slices=='2'):
+        print(halfsplit.gif)
+    elif (slices=='3'):
+        print(triplesplit.gif)
+    elif (slices=='4'):
+        print (quartersplit.gif)
+    elif (slices=='8'):
+        print(standardsplit.gif)
+    else:
+        print("Error in splitting; try choosing 2,3,4,8")
+Margherita()
+
+def Tomato():
+    print("You have chosen Tomato as topping", Tomato.gif)
+    slices=input("Enter number of slices:")
+    if (slices=='2'):
+        print(halfsplit.gif)
+    elif (slices=='3'):
+        print(triplesplit.gif)
+    elif (slices=='4'):
+        print (quartersplit.gif)
+    elif (slices=='8'):
+        print(standardsplit.gif)
+    else:
+        print("Error in splitting; try choosing 2,3,4,8")
+Tomato()
+
+def Onion():
+    print("You have chosen Onion as topping", Onion.gif)
+    slices=input("Enter number of slices:")
+    if (slices=='2'):
+        print(halfsplit.gif)
+    elif (slices=='3'):
+        print(triplesplit.gif)
+    elif (slices=='4'):
+        print (quartersplit.gif)
+    elif (slices=='8'):
+        print(standardsplit.gif)
+    else:
+        print("Error in splitting; try choosing 2,3,4,8")
+Onion()
+
+def Mushroom():
+    print("You have chosen Mushroom as topping", Mushroom.gif)
+    slices=input("Enter number of slices:")
+    if (slices=='2'):
+        print(halfsplit.gif)
+    elif (slices=='3'):
+        print(triplesplit.gif)
+    elif (slices=='4'):
+        print (quartersplit.gif)
+    elif (slices=='8'):
+        print(standardsplit.gif)
+    else:
+        print("Error in splitting; try choosing 2,3,4,8")
+Mushroom()
+
+def Pepperoni():
+    print("You have chosen Pepperoni as topping", Pepperoni.gif)
+    slices=input("Enter number of slices:")
+    if (slices=='2'):
+        print(halfsplit.gif)
+    elif (slices=='3'):
+        print(triplesplit.gif)
+    elif (slices=='4'):
+        print (quartersplit.gif)
+    elif (slices=='8'):
+        print(standardsplit.gif)
+    else:
+        print("Error in splitting; try choosing 2,3,4,8")
+Pepperoni()
+
+print("Enjoy your Pizza!!!")
